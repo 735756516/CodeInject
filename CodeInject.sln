@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InjectCode", "InjectCode\InjectCode.vcxproj", "{62270AD3-AF1A-41FD-A6D4-27812383665D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InjectDLL", "InjectDLL\InjectDLL.vcxproj", "{8728DBF6-3A4B-431D-976B-90F8216CFFAE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyDLL", "MyDLL\MyDLL.vcxproj", "{630D6145-E07C-4FD2-BC23-93C6D6095294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62270AD3-AF1A-41FD-A6D4-27812383665D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62270AD3-AF1A-41FD-A6D4-27812383665D}.Debug|Win32.Build.0 = Debug|Win32
+		{62270AD3-AF1A-41FD-A6D4-27812383665D}.Release|Win32.ActiveCfg = Release|Win32
+		{62270AD3-AF1A-41FD-A6D4-27812383665D}.Release|Win32.Build.0 = Release|Win32
+		{8728DBF6-3A4B-431D-976B-90F8216CFFAE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8728DBF6-3A4B-431D-976B-90F8216CFFAE}.Debug|Win32.Build.0 = Debug|Win32
+		{8728DBF6-3A4B-431D-976B-90F8216CFFAE}.Release|Win32.ActiveCfg = Release|Win32
+		{8728DBF6-3A4B-431D-976B-90F8216CFFAE}.Release|Win32.Build.0 = Release|Win32
+		{630D6145-E07C-4FD2-BC23-93C6D6095294}.Debug|Win32.ActiveCfg = Debug|Win32
+		{630D6145-E07C-4FD2-BC23-93C6D6095294}.Debug|Win32.Build.0 = Debug|Win32
+		{630D6145-E07C-4FD2-BC23-93C6D6095294}.Release|Win32.ActiveCfg = Release|Win32
+		{630D6145-E07C-4FD2-BC23-93C6D6095294}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
